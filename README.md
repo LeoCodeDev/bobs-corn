@@ -61,7 +61,7 @@ sequenceDiagram
 1. Clonar el repositorio
 
 ```bash
-git clone [url-repositorio]
+git clone https://github.com/LeoCodeDev/bobs-corn.git
 cd bobs-corn
 ```
 
@@ -81,7 +81,6 @@ npm run dev
 ```bash
 cd ../frontend
 npm install
-cp .env.example .env
 npm run dev
 ```
 
@@ -95,14 +94,6 @@ bobs-corn/
 └── frontend/       # Aplicación React
     └── src/        # Código fuente
 ```
-
-## Contribuir
-
-1. Fork el repositorio
-2. Crear una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abrir un Pull Request
 
 ## Licencia
 

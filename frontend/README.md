@@ -54,26 +54,13 @@ src/
 
 ## Instalación
 
-1. Clonar el repositorio
-
-```bash
-git clone [url-repositorio]
-cd bobs-corn-frontend
-```
-
-2. Instalar dependencias
+1. Instalar dependencias
 
 ```bash
 npm install
 ```
 
-3. Configurar variables de entorno
-
-```bash
-cp .env.example .env
-```
-
-4. Iniciar el servidor de desarrollo
+2. Iniciar el servidor de desarrollo
 
 ```bash
 npm run dev

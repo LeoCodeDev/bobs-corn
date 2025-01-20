@@ -47,13 +47,6 @@ src/
 
 ## Instalación
 
-1. Clonar el repositorio
-
-```bash
-git clone [url-repositorio]
-cd bobs-corn-backend
-```
-
 2. Instalar dependencias
 
 ```bash
